@@ -1,0 +1,5 @@
+CARLA_294096eb1-dirty.tar.gz.part-* filter=lfs diff=lfs merge=lfs -text
+*.sh text eol=lf
+*.ps1 text eol=crlf
+*.md text eol=lf
+.gitignore text eol=lf
